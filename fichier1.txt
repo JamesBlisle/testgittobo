@@ -4,4 +4,10 @@ Voilà
 C'est n'importe quoi ce projet
 La connerie ici, c'est la vie en général. Les seuls vrais humoristes sont ceux qui volent la blague(donc métaphoriquement la vie), ils font rire
 ceux qui comprennent cette métaphore.
+<<<<<<< HEAD
 C'est de pire en pire
+=======
+Bon allez faut que je me dépèche avant que sabrina vienne réécrire l'histoire de l'humanité à coup de faux historiens disant que les égyptiens
+ont vu les ovnis en premier alors que ce sont les états unis senior qui l'ont vu, ce sont eux qui leur ont fournir la recettes des dégueulasses 
+"Fish n' chips"!!!!!!!!!!!
+>>>>>>> e3fcba71828ea67b7806acd907ab25baf9e03d44
